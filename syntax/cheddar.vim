@@ -650,7 +650,7 @@ syn keyword chdrBuiltinFunction map_frag_data
 syn keyword chdrBuiltinFunction yield_vertex
 syn keyword chdrBuiltinFunction yield_primitive
 
-hi def link chdrUse             Special
+hi def link chdrUse             Statement
 hi def link chdrConditional     Conditional
 hi def link chdrRepeat          Repeat
 hi def link chdrStatement       Statement
